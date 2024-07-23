@@ -126,7 +126,6 @@ urllib3==1.26.19
 virtualenv==20.26.2
 Werkzeug==3.0.3
 wheel==0.43.0
-windows-curses==2.3.2
 XlsxWriter==3.2.0
 xmltodict==0.13.0
 zc.lockfile==3.0.post1
